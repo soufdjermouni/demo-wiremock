@@ -1,0 +1,17 @@
+{
+  "id" : "deefadbf-cac2-45f2-87bd-7f539972bf6b",
+  "request" : {
+    "url" : "/hello",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 404,
+    "jsonBody" : {
+      "error" : "Not Found Matched-Stub-Id"
+    },
+    "headers" : {
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "deefadbf-cac2-45f2-87bd-7f539972bf6b"
+}

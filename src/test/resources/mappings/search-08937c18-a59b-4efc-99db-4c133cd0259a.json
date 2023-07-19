@@ -1,0 +1,29 @@
+{
+  "id" : "08937c18-a59b-4efc-99db-4c133cd0259a",
+  "name" : "search",
+  "request" : {
+    "url" : "/search?country=india",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "application/json, application/*+json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "search-08937c18-a59b-4efc-99db-4c133cd0259a.json",
+    "headers" : {
+      "Server" : "nginx/1.14.0",
+      "Date" : "Mon, 17 Jul 2023 14:41:13 GMT",
+      "Content-Type" : "application/json",
+      "X-Cache" : "MISS from srv073",
+      "X-Cache-Lookup" : "MISS from srv073:3128",
+      "Via" : "1.0 srv073:3128 (squid/2.6.STABLE21)",
+      "Proxy-Connection" : "keep-alive"
+    }
+  },
+  "uuid" : "08937c18-a59b-4efc-99db-4c133cd0259a",
+  "persistent" : true,
+  "insertionIndex" : 3
+}

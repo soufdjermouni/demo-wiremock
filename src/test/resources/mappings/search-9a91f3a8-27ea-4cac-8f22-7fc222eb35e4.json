@@ -1,0 +1,29 @@
+{
+  "id" : "9a91f3a8-27ea-4cac-8f22-7fc222eb35e4",
+  "name" : "search",
+  "request" : {
+    "url" : "/search?country=australia",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "application/json, application/*+json"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "search-9a91f3a8-27ea-4cac-8f22-7fc222eb35e4.json",
+    "headers" : {
+      "Server" : "nginx/1.14.0",
+      "Date" : "Mon, 17 Jul 2023 14:41:15 GMT",
+      "Content-Type" : "application/json",
+      "X-Cache" : "MISS from srv073",
+      "X-Cache-Lookup" : "MISS from srv073:3128",
+      "Via" : "1.0 srv073:3128 (squid/2.6.STABLE21)",
+      "Proxy-Connection" : "keep-alive"
+    }
+  },
+  "uuid" : "9a91f3a8-27ea-4cac-8f22-7fc222eb35e4",
+  "persistent" : true,
+  "insertionIndex" : 4
+}

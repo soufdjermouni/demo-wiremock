@@ -1,0 +1,21 @@
+{
+  "id" : "1b7bc7ed-1f19-40d3-a728-2619da2ddddd",
+  "name" : "hello",
+  "request" : {
+    "url" : "/hello",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "jsonBody": {
+      "message": "Hello, World!"
+    },
+    "headers" : {
+      "Date" : "Mon, 17 Jul 2023 14:22:25 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "1b7bc7ed-1f19-40d3-a728-2619da2ddddd",
+  "persistent" : true,
+  "insertionIndex" : 2
+}
